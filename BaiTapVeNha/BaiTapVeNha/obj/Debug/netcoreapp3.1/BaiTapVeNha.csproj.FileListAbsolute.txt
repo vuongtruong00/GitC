@@ -1,0 +1,13 @@
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\bin\Debug\netcoreapp3.1\BaiTapVeNha.exe
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\bin\Debug\netcoreapp3.1\BaiTapVeNha.deps.json
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\bin\Debug\netcoreapp3.1\BaiTapVeNha.runtimeconfig.json
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\bin\Debug\netcoreapp3.1\BaiTapVeNha.runtimeconfig.dev.json
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\bin\Debug\netcoreapp3.1\BaiTapVeNha.dll
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\bin\Debug\netcoreapp3.1\BaiTapVeNha.pdb
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\obj\Debug\netcoreapp3.1\BaiTapVeNha.csprojAssemblyReference.cache
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\obj\Debug\netcoreapp3.1\BaiTapVeNha.AssemblyInfoInputs.cache
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\obj\Debug\netcoreapp3.1\BaiTapVeNha.AssemblyInfo.cs
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\obj\Debug\netcoreapp3.1\BaiTapVeNha.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\obj\Debug\netcoreapp3.1\BaiTapVeNha.dll
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\obj\Debug\netcoreapp3.1\BaiTapVeNha.pdb
+C:\xampp\htdocs\BaiTapC#\BaiTapVeNha\BaiTapVeNha\obj\Debug\netcoreapp3.1\BaiTapVeNha.genruntimeconfig.cache
